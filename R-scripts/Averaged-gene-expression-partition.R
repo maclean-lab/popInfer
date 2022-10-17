@@ -4,7 +4,7 @@
 ## n.pseudo = number of pseudocells to make
 
 ## Output:
-## matrix (n.pseudo x gene) of pseudocell expression values
+## matrix (genes x n.pseudo) of pseudocell expression values
 
 averageCellsPartition <- function(expression.matrix, dpt.vec, n.pseudo){
   
