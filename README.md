@@ -1,6 +1,6 @@
 # popInfer
 
-popInfer is a gene regulatory network inference tool for single-cell multiome data. 
+popInfer is a gene regulatory network inference tool for single-cell multiome data implemented in R. 
 
 ### Contents
 
