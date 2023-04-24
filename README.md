@@ -3,11 +3,11 @@
 popInfer is a gene regulatory network inference tool for single-cell multiome data implemented in R. 
 
 ### Citation
-If you use popInfer in your research, please cite [the preprint](https://doi.org/10.1101/2023.04.18.537360):
+If you use popInfer in your research, please cite:
 
 MK Rommelfanger, M Behrends, Y Chen, J Martinez, M Bens, L Xiong, KL Rudolph, AL MacLean (2023).
 Gene regulatory network inference with popInfer reveals dynamic regulation of hematopoietic stem cell quiescence upon diet restriction and aging. 
-**bioRxiv**, 10.1101/2023.04.18.537360.
+**bioRxiv**, [10.1101/2023.04.18.537360](https://doi.org/10.1101/2023.04.18.537360).
 
 
 ### Contents
